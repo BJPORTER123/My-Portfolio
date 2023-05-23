@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.0be54b85.css",
+    "main.js": "/My-portfolio/static/js/main.afc1a0cf.js",
+    "static/js/787.1f11dfe9.chunk.js": "/My-portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/profilephoto.png": "/My-portfolio/static/media/profilephoto.298a23df32bfca7d86a7.png",
+    "static/media/Robit.png": "/My-portfolio/static/media/Robit.cfe26bd3e89f18411b91.png",
+    "static/media/world-spin.gif": "/My-portfolio/static/media/world-spin.a97bd8c59f719df28115.gif",
+    "static/media/travelapp.png": "/My-portfolio/static/media/travelapp.cbe9c5c2cc37f1ba66ad.png",
+    "static/media/python.png": "/My-portfolio/static/media/python.fe1ab28b69fabbc0b906.png",
+    "static/media/POSTGRESQL.png": "/My-portfolio/static/media/POSTGRESQL.80d76630d5c76fadfd35.png",
+    "static/media/Java.png": "/My-portfolio/static/media/Java.eacc57cdbd80250f8b39.png",
+    "static/media/triviaapp.png": "/My-portfolio/static/media/triviaapp.3b21814a6a3df2722f73.png",
+    "static/media/linkedin.png": "/My-portfolio/static/media/linkedin.5232bfe1d0c0099cbbd4.png",
+    "static/media/emailopen.png": "/My-portfolio/static/media/emailopen.7ac5502236ec06617ff1.png",
+    "static/media/flask.png": "/My-portfolio/static/media/flask.d1fd2871ad935c081102.png",
+    "static/media/github.png": "/My-portfolio/static/media/github.6971b06ff05e44571e27.png",
+    "static/media/react.png": "/My-portfolio/static/media/react.4458987cc59156258cac.png",
+    "static/media/html.png": "/My-portfolio/static/media/html.3a1eb76a6408b3a9bfcf.png",
+    "static/media/css.png": "/My-portfolio/static/media/css.b1e9c17b12c7128129d3.png",
+    "static/media/emailclosed.png": "/My-portfolio/static/media/emailclosed.d6459dcabbe05672245c.png",
+    "static/media/javascript.png": "/My-portfolio/static/media/javascript.8c610ed6c254aa008e7c.png",
+    "static/media/spring.png": "/My-portfolio/static/media/spring.7c70df2b348a71033b36.png",
+    "static/media/node.png": "/My-portfolio/static/media/node.b78c8cc95a653a8f4c75.png",
+    "static/media/Minecraft.ttf": "/My-portfolio/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
+    "static/media/revicons.eot": "/My-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/My-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/My-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/mongodb.svg": "/My-portfolio/static/media/mongodb.bfa6cdd80f4a99232cadb39ebbb976d2.svg",
+    "index.html": "/My-portfolio/index.html",
+    "main.0be54b85.css.map": "/My-portfolio/static/css/main.0be54b85.css.map",
+    "main.afc1a0cf.js.map": "/My-portfolio/static/js/main.afc1a0cf.js.map",
+    "787.1f11dfe9.chunk.js.map": "/My-portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be54b85.css",
+    "static/js/main.afc1a0cf.js"
+  ]
+}
