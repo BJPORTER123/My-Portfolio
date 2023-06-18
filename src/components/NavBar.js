@@ -33,7 +33,7 @@ const NavBar = () => {
     <BrowserRouter>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="#home">
             <img src={profile} alt="profile" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
